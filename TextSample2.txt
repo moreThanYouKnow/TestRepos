@@ -1,1 +1,5 @@
 This is a second sample of text in this repos! You can see it now.
+Это второй пример текста в этом репозитории! Вы можете видеть его здесь.
+
+String str = new String("Hola!");
+String str2 = "Hola2!";
