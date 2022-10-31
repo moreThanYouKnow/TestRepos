@@ -1,4 +1,8 @@
-Hello World!
-Привет, Мир!
-Kaixo mundua
-Hello te ao
+Hello World! - English
+Привет, Мир! - Russian
+Kaixo mundua - Bask
+Hello te ao - Undefined
+Salve, mundi! - Latin
+Γεια σου, Κόσμε! - Greek
+Hej, verden! - Danish
+Hallo, Welt! - Deutsch
